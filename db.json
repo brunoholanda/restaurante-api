@@ -1,0 +1,40 @@
+{ "hamburguers":
+[
+    {
+        "id": 1,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/1.png",
+        "texto": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo."
+    },
+    {
+        "id": 2,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/2.png",
+        "texto": "https://www.youtube.com/embed/FQQYDgmXFTc"
+    },
+    {
+        "id": 3,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/3.png",
+        "link": "https://www.youtube.com/embed/q9OsWBEHDO4"
+    },
+    {
+        "id": 4,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/4.png",
+        "link": "https://www.youtube.com/embed/tzfnlcJqjYQ"
+    },
+	{
+        "id": 5,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/5.png",
+        "link": "https://www.youtube.com/embed/YMGiZMBldh4"
+    },
+	{
+        "id": 6,
+        "titulo": "Hambuguer Splet",
+        "capa": "https://nerdking.net.br/wp-content/uploads/2023/02/6.png",
+        "link": "https://www.youtube.com/embed/Yfc0dwS402A"
+    }
+]
+}
